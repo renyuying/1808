@@ -1,0 +1,6 @@
+name = input("任育莹")
+age = int(input(18))
+height = float(input(159.6))
+weight = float(input(45))
+print("姓名:",name)
+print("年龄:",age)

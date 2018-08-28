@@ -1,0 +1,15 @@
+'''
+姓名：xxx
+民族：xxx
+性别：xxx
+年龄：xx
+地址：xxx
+身份证号：xxx
+
+'''
+
+d = {"name":"老王","mz":"汉"}
+
+
+d["edu"] = "boshi"
+print(d)
